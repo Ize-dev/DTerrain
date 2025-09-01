@@ -413,6 +413,7 @@
 "Assets/Scripts/ExampleScripts/CameraMovement.cs"
 "Assets/Scripts/ExampleScripts/ClickAndDestroy.cs"
 "Assets/Scripts/ExampleScripts/ClickAndDestroyOptimized.cs"
+"Assets/Scripts/ExampleScripts/DTerrainBrushPreview.cs"
 "Assets/Scripts/ExampleScripts/MouseBallSpawn.cs"
 "Assets/Scripts/HelpAttribute.cs"
 "Assets/Scripts/Layer/ComponentLayers/BasicPaintableLayer.cs"
