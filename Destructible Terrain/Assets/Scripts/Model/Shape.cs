@@ -22,6 +22,8 @@ namespace DTerrain
             Ranges = new List<Range>();
         }
 
+
+
         public static Shape GenerateShapeRange(int length)
         {
             Shape s = new Shape(1, length);

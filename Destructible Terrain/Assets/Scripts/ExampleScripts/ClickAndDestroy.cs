@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
 
+
 namespace DTerrain
 {
     /// <summary>
@@ -40,12 +41,12 @@ namespace DTerrain
                 OnLeftMouseButtonClick();
             }
 
-            if(Input.GetMouseButton(1))
+            if (Input.GetMouseButton(1))
             {
                 OnRightMouseButtonClick();
             }
 
-            
+
         }
 
         protected virtual void OnLeftMouseButtonClick()
